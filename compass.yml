@@ -1,0 +1,17 @@
+name: rack
+id: ari:cloud:compass:73c27ebd-147d-438f-9621-81d472c666b0:component/9e9bd950-6fcb-4b39-8b4c-3b029381aa3f/9a251529-5aa5-4d58-a1a3-52b76cb37dad
+description: A modular Ruby web server interface.
+configVersion: 1
+typeId: UI_ELEMENT
+ownerId: ari:cloud:identity::team/00a9f17a-efa3-4606-944d-9fff9b43f271
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/andoka-soudanai/rack
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
